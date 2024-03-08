@@ -1,0 +1,5 @@
+log_paths:
+- log_path: /data/g16/G16_gci_manager/logs/debug
+  path_type: file
+- log_path: /data/g16/G16_gci_manager/logs/error
+  path_type: file

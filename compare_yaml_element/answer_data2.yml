@@ -1,0 +1,3 @@
+log_paths:
+- log_path: /data/g16/G16_gci_web/logs
+  path_type: file
